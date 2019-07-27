@@ -1,0 +1,14 @@
+{
+  "name": "Template",
+  "description": "",
+  "main": "common.min.js",
+  "authors": [
+    "Volkov Evgeniy"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "^3.2.1"
+  }
+}
